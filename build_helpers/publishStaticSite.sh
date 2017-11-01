@@ -1,10 +1,10 @@
 #!/bin/bash
 set -e
 
-PROJECT_DIRECTORY="fixed-data-table-2"
+PROJECT_DIRECTORY="netmonitor-fixed-data-table"
 SITE_DIRECTORY="$PROJECT_DIRECTORY-site"
-GITHUB_REPO="git@github.com:schrodinger/fixed-data-table-2.git"
-GH_PAGES_SITE="http://schrodinger.github.io/fixed-data-table-2/"
+GITHUB_REPO="git@github.com:rickychien/netmonitor-fixed-data-table.git"
+GH_PAGES_SITE="http://schrodinger.github.io/netmonitor-fixed-data-table/"
 
 # Move to parent dir
 cd ../
